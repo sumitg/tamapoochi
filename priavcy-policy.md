@@ -1,6 +1,6 @@
-# Privacy Policy – Tamapoochi
+# Privacy Policy – NanoPup
 
-Tamapoochi does not collect, store, or share any personal information.
+NanoPup does not collect, store, or share any personal information.
 
 We do not use any third-party analytics tools or tracking services. All game activity remains local to your Apple Watch device.
 

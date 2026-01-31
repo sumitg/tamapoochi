@@ -1,6 +1,6 @@
-# Tamapoochi Support
+# NanoPup Support
 
-Thanks for playing Tamapoochi!
+Thanks for playing NanoPup!
 
 If you’re experiencing issues or have feedback, please open an issue on this GitHub repository or contact us directly at:  
 📧 g.sumit@gmail.com
